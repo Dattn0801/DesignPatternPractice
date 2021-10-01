@@ -1,0 +1,13 @@
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+D:\y4\Prcatisce\Lap1\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
