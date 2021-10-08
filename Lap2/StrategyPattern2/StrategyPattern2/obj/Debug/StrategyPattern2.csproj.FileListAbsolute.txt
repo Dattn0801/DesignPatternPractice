@@ -1,0 +1,10 @@
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\bin\Debug\StrategyPattern2.exe.config
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\bin\Debug\StrategyPattern2.exe
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\bin\Debug\StrategyPattern2.pdb
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.csprojAssemblyReference.cache
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.Form1.resources
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.Properties.Resources.resources
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.csproj.GenerateResource.cache
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.csproj.CoreCompileInputs.cache
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.exe
+D:\y4\DesignPatternPractice\Lap2\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.pdb
