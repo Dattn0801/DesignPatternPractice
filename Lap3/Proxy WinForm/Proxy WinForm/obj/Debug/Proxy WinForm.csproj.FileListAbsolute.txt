@@ -1,0 +1,10 @@
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\obj\Debug\Proxy WinForm.csprojAssemblyReference.cache
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\obj\Debug\Proxy_WinForm.Properties.Resources.resources
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\obj\Debug\Proxy WinForm.csproj.GenerateResource.cache
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\obj\Debug\Proxy WinForm.csproj.CoreCompileInputs.cache
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\bin\Debug\Proxy WinForm.exe.config
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\bin\Debug\Proxy WinForm.exe
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\bin\Debug\Proxy WinForm.pdb
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\obj\Debug\Proxy WinForm.exe
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\obj\Debug\Proxy WinForm.pdb
+D:\y4\DesignPatternPractice\Lap3\Proxy WinForm\Proxy WinForm\obj\Debug\Proxy_WinForm.MainForm.resources
