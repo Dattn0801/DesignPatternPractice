@@ -1,0 +1,7 @@
+D:\y4\DesignPatternPractice\Lap4\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\y4\DesignPatternPractice\Lap4\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\y4\DesignPatternPractice\Lap4\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\y4\DesignPatternPractice\Lap4\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\y4\DesignPatternPractice\Lap4\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\y4\DesignPatternPractice\Lap4\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\y4\DesignPatternPractice\Lap4\Adapter\Adapter\obj\Debug\Adapter.pdb
