@@ -1,0 +1,7 @@
+D:\y4\DesignPatternPractice\Lap7\Prototype\Prototype\bin\Debug\Prototype.exe.config
+D:\y4\DesignPatternPractice\Lap7\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\y4\DesignPatternPractice\Lap7\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\y4\DesignPatternPractice\Lap7\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+D:\y4\DesignPatternPractice\Lap7\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\y4\DesignPatternPractice\Lap7\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\y4\DesignPatternPractice\Lap7\Prototype\Prototype\obj\Debug\Prototype.pdb
